@@ -1,4 +1,4 @@
-void main() {
+void main(){
   bool isDartCool = true;
-  print('Hello $isDartCool');
+  print ('Hello $isDartCool');
 }
